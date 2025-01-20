@@ -1,4 +1,4 @@
-## Hi there 👋
+## Parę słów o mnie 
 
 Cześć! Mam na imię Ola i jestem studentką Uniwersytetu Gdańskiego. Na co dzień łączę swoje dwie pasje: programowanie i taniec.
 
