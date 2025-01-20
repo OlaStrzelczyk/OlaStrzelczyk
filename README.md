@@ -1,6 +1,6 @@
-## Parę słów o mnie 
+## Hej!
 
-Cześć! Mam na imię Ola i jestem studentką Uniwersytetu Gdańskiego. Na co dzień łączę swoje dwie pasje: programowanie i taniec.
+Mam na imię Ola i jestem studentką Uniwersytetu Gdańskiego. Na co dzień łączę swoje dwie pasje: programowanie i taniec.
 
 ### O mnie:
 
