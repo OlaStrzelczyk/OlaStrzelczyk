@@ -1,23 +1,22 @@
-## Hej!
+Hi there!
+My name is Ola, and I'm a student at the University of Gdańsk. Every day, I combine my two passions: programming and dancing.
 
-Mam na imię Ola i jestem studentką Uniwersytetu Gdańskiego. Na co dzień łączę swoje dwie pasje: programowanie i taniec.
+About Me:
+🎓 I study at the University of Gdańsk, where I’m expanding my knowledge in Business IT Applications.
 
-### O mnie:
+🎶 After classes, I immerse myself in dance – it's my escape and source of energy.
 
-- 🎓 Studiuję na Uniwersytecie Gdańskim, gdzie rozwijam swoją wiedzę z zakresu Aplikacji Informatycznych w Biznesie.
-- 🎶 Po zajęciach oddaję się pasji do tańca – to moja odskocznia i źródło energii.
-- 💻 Uwielbiam programować, szczególnie w Pythonie i C#.
+💻 I love programming, especially in Python and C#.
 
-### Co znajdziesz na moim profilu:
+What You’ll Find on My Profile:
+🔄 Projects I’m currently working on.
 
-- 🔄 Projekty, nad którymi obecnie pracuję.
-- 📚 Moje prace zaliczeniowe i ciekawe rozwiązania problemów programistycznych.
-- 🚀 Eksperymenty i nowe technologie, które mnie inspirują.
+📚 My coursework and interesting solutions to programming problems.
 
-### Ciekawostka:
+🚀 Experiments and new technologies that inspire me.
 
-- ✨ W wolnym czasie uwielbiam też grać w planszówki, pływać i rysować.
+Fun Fact:
+✨ In my free time, I also love playing board games, swimming, and drawing.
 
-### Kontakt
-
-- 📧 Jeśli masz pytania lub chcesz nawiązać współpracę, pisz do mnie na e-mail: strzelczykaleksandra9@gmail.com.
+Contact
+📧 If you have any questions or would like to collaborate, feel free to email me at: strzelczykaleksandra9@gmail.com.
